@@ -1,4 +1,4 @@
-this is a readme as a guide to run technical test result
+this is a readme as a guide to run result
  -> note : some different IDE maybe will affect different since there's a plugin that doesnt support
  -> ID success tested on PYCharm
 
